@@ -162,7 +162,7 @@ This equation beautifully captures the Nietzschean transmutation: individual suf
 | **Accumulated Error ($\mathbf{\int\epsilon dt}$)** | A **legacy ledger in the red**; a balance sheet of borrowed dignity. | The accumulation of high standards leading to a post-30 $\mathbf{d^2\epsilon/dt^2}$ (the second derivative of regret). | **Experience/Investment**: The sum of all relationships/attempts, which *must* be embraced (*Amor Fati*). |
 | **The Goal** | **Cross-entropy minimization**: Matching his self-model with her projection of him. | **Pairwise becoming**: Finding shared variables (legacy, utility) beyond solo optimization. | **Composing with Dissonance**: Inverting the integral; treating error as the **generator of signal** and creative fuel. |
 
-\<hr\>
+
 
 ## The Final Philosophical Leap: The Good European as Surfer
 
