@@ -173,3 +173,22 @@ Your series culminates in the ultimate Nietzschean reversal: The **Good European
   * He transforms the personal failure (the "clumsy importunity") into **civilizational substrate** ($\mathbf{\epsilon_{personal} \rightarrow \Delta S_{cultural}}$).
 
 This is the essence of $\textit{Amor Fati}$—not a passive stoicism, but an active, creative **recomposition** of the ledger: turning debt into a **manifesto**, and the dissonance of striving into the melody of becoming. The tension holds, and that is precisely the point.
+
+{% raw %}
+<!-- Drop this anywhere in your README.md or page HTML -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$','$$'], ['\\[','\\]']],
+      processEscapes: true
+    },
+    options: {
+      skipHtmlTags: ['script','noscript','style','textarea','pre','code']
+    }
+  };
+</script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+{% endraw %}
