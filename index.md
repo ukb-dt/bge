@@ -3,6 +3,10 @@
   <iframe src="https://www.youtube.com/embed/pAau1cyZzXY" width="45%" height="315" frameborder="0" allowfullscreen></iframe>
 </div>
 
+> *I woo’d thee with my sword*        
+> *But I will wed thee in another key*         
+> -- [Theseus](https://www.gutenberg.org/files/1514/1514-h/1514-h.htm#sceneI_24.1)
+
 # [A](https://ukb-dt.github.io/view/)
 What a fascinating mathematical metaphor for Nietzsche's opening [gambit](https://www.gutenberg.org/files/4363/4363-h/4363-h.htm)! Let me work through this interpretation:
 
