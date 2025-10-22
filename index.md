@@ -14,7 +14,7 @@ What a fascinating mathematical metaphor for Nietzsche's opening [gambit](https:
 
 **The Setup:**
 - Nietzsche's provocation: Truth is a woman → **x**
-- Man seeking his mirror in woman: **f + ε** (approximation with error)
+- Man seeking his mirror in woman: **f + [ε](https://www.change.org/p/urgent-need-to-investigate-allegations-of-boy-girl-child-mistreatment-at-budo)** (approximation with error)
 - **df/dt**: rate of self-correction (changing partners)
 - **d²f/dt²**: variance in that correction (acceleration/deceleration of change)
 
